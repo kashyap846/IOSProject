@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W2K-MH-xl6"; */
+"W2K-MH-xl6.text" = "Label";
+
+/* Class = "UILabel"; text = "Enter your To do List item:"; ObjectID = "azg-Ux-a84"; */
+"azg-Ux-a84.text" = "Entrez votre élément de liste de tâches";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "noV-jq-xX4"; */
+"noV-jq-xX4.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "TO DO LIST"; ObjectID = "rX9-vz-n7w"; */
+"rX9-vz-n7w.title" = "LISTE DE CHOSES À FAIRE";
+
+/* Class = "UILabel"; text = "Enter targetted date:"; ObjectID = "uQC-gi-YdT"; */
+"uQC-gi-YdT.text" = "Entrez la date ciblée";
+
+/* Class = "UIButton"; normalTitle = "Save Item"; ObjectID = "wfI-Gm-irj"; */
+"wfI-Gm-irj.normalTitle" = "Enregistrer l'élément";

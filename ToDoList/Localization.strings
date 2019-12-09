@@ -1,0 +1,13 @@
+/* 
+  Localization.strings
+  ToDoList
+
+  Created by Likhith P.s. on 2019-12-08.
+  Copyright © 2019 Kashyap K. All rights reserved.
+*/
+"Enter your To do List item"  = "Enter your To do List item";
+"Enter targetted date" = "Enter targetted date";
+
+"Save Item" = "Save Item";
+
+"TO DO LIST" = "TO DO LIST";
